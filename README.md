@@ -33,7 +33,7 @@ Tool-using LLM agents on a shared task, some secretly in coalitions, with public
 
 - **Senior ML Engineer**, Leena AI (Dec 2025–present): scaling LLM / RAG-based NLP pipelines for enterprise users
 - **Senior Software Engineer**, Barco (Jul 2021–Dec 2025): built agentic workflows for control-room operators, and event-streaming backends handling 2B+ events/hour with real-time alerting for 200K+ IoT devices
-- **Research Intern**, Samsung Electronics (summer 2020): deep learning for image resolution scaling
+- **Summer Intern**, Samsung Electronics (summer 2020): deep learning for image resolution scaling
 - **B.Tech, Electrical Engineering**, IIT Delhi (2017–2021)
 - Safety research: independent, alongside my day job (Apart Research sprints)
 
