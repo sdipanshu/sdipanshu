@@ -1,6 +1,6 @@
 ### Hi, I'm Dipanshu 👋
 
-I run empirical experiments on **how LLM agents behave when they're being monitored**. Right now that means collusion, covert coordination and cover-up in multi-agent systems. I came to this from 4+ years of building large distributed systems, and I bring that engineering habit to evals: pre-register first, run positive controls, put a confidence interval on every number.
+I run empirical experiments on **how LLM agents behave when they're being monitored**. Right now that means collusion, covert coordination and cover-up in multi-agent systems. By day I'm a Senior ML Engineer at Leena AI, building LLM and RAG pipelines in production. Before that I spent 4+ years on large distributed systems. I bring that engineering habit to evals: pre-register first, run positive controls, put a confidence interval on every number.
 
 **Interests:** multi-agent safety · AI control & monitoring · dangerous-capability and propensity evals · RL environments for agents
 
@@ -29,11 +29,13 @@ Tool-using LLM agents on a shared task, some secretly in coalitions, with public
 
 ---
 
-### 📚 Background
+### 📚 Experience
 
+- **Senior ML Engineer**, Leena AI (Dec 2025–present): scaling LLM / RAG-based NLP pipelines for enterprise users
+- **Senior Software Engineer**, Barco (Jul 2021–Dec 2025): built agentic workflows for control-room operators, and event-streaming backends handling 2B+ events/hour with real-time alerting for 200K+ IoT devices
+- **Research Intern**, Samsung Electronics (summer 2020): deep learning for image resolution scaling
 - **B.Tech, Electrical Engineering**, IIT Delhi (2017–2021)
-- **Senior Software Engineer**, Barco (2021–2026): event-streaming backends handling 2B+ events/hour and real-time alerting for 200K+ IoT devices
-- **2026–now:** independent AI safety research, full-time
+- Safety research: independent, alongside my day job (Apart Research sprints)
 
 ---
 
